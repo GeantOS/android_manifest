@@ -1,6 +1,3 @@
 # GeantOS manifest
 
-To initialize your local repository using GeantOS trees, use a command like this:
-```
-repo init -u https://github.com/GeantOS/android_manifest.git -b 16 --git-lfs
-```
+We are working on the manifest please do not sync and build
